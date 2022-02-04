@@ -1,0 +1,30 @@
+*{background-color: black;}
+.frontPage{
+    display: flex;
+    flex-direction: column;
+    color: blanchedalmond;
+}
+.upperPart{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: blanchedalmond;
+    
+}
+
+
+.middlePart{
+    display: flex;
+    flex-direction: column;
+    background-color: blanchedalmond;
+     text-align: left;
+}
+.name{
+    color: blanchedalmond;
+}
+.bio{
+color: blanchedalmond;  
+}
+.aboutMe{
+    color: blanchedalmond;
+}
