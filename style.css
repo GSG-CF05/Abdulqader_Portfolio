@@ -28,3 +28,11 @@ color: blanchedalmond;
 .aboutMe{
     color: blanchedalmond;
 }
+.pic{
+    width: 300px;
+    align-self: center;
+}
+img{
+  width: 100%;
+  height: auto;
+}
