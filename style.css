@@ -23,6 +23,11 @@
      font-family: 'Oswald', sans-serif;
      
 }
+.lowerPart{
+    display: flex;
+    flex-direction: column;
+    
+}
 .name{
     color: blanchedalmond;
 }
@@ -35,7 +40,13 @@ color: blanchedalmond;
 .pic{
     width: 300px;
     align-self: center;
+
 }
+.sad{
+ width:200px ;
+ align-self: center;
+}
+
 img{
   width: 100%;
   height: auto;
